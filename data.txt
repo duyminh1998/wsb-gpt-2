@@ -1,0 +1,764 @@
+TLDR; **Melvin and gang hasn't covered shit. They've been illegally "closing out" their short positions and if we hold they will 100% get fucked. There is far more nefarious shit at play.**
+
+So this morning I saw the S3 and Ortex data both report significant covering of short positions for GME. This absolutely threw me for a loop because Friday morning they reported above ~120% short interest still. I could not for the life of me figure out how someone could close >50% of short positions on such a tightly held stock in ONE day with very little trading volume in the week. This got me digging around to figure out what's up.
+
+I started by looking into GME failed to delivers (i.e. short sellers not able to cover their position on a stock) for the first half of January and I was shocked to find that just in the first 15 days of Jan, GME had ~1.2 MILLION failed to delivers. This is before most of wsb or mainstream began buying.
+
+What was interesting though, is that of that ~1.2million, ~700K shares were covered in chunks throughout the two week period. I dug further back into the SEC failed to deliver reports for GME and saw that pattern extending back months. It seemed almost as if the short positions were just being kicked down the road.
+
+Having spent some time looking at the pattern, it's clear a large amount of failed to delivers come in, then a small chunk of coverage, then another large amount, and so on. To me this looked shady af so I looking into reasons that could cause that and discovered this article: https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf
+
+In it, a specific section is eerily similar to what we've experienced with GME:
+
+"Assuming that XYZ (e.g. GME) is a hard to borrow security (e.g. apes holding strong), and that Trader A (Melvin), or its broker-dealer, is unable (apes again) to borrow shares to make delivery on the short sale of actual shares, the short sale may result in a fail to deliver position at Trader A’s clearing firm. Rather than paying the borrowing fee on the shares to make delivery, or unwinding the position by purchasing the shares in the market, Trader A might next enter into a trade that gives the appearance of satisfying the broker-dealer’s close-out requirement, but in reality allows Trader A to maintain its short position without ever delivering on the short sale. Most often, this is done through the use of a buy-write trade, but may also be done as a married put and may incorporate the use of short term FLEX options. These trades are commonly referred to as “reset transactions,” in that they have the effect of resetting the time that the broker-dealer must purchase or borrow the stock to close-out a fail. The transactions could be designed solely to give the appearance of delivering the shares, when in reality the trader has no intention of meeting his delivery obligations. Such transactions were alleged by the Commission to be sham transactions in recent enforcement cases. Such transactions between traders or any market participants have also been found to constitute a violation of a clearing firm’s responsibility to close out a failure to deliver."
+
+It's almost like a play by play of what we've seen (in combination with the ladder attacks). My guess is we'll find out more when the failed to deliver report for the second half of Jan comes out on the 17th.
+
+I 100% think that Melvin is committing massive securities fraud. In fact, I would bet all my money on it - oh wait, I did 96 GME @ 290.
+
+I am now holding on principle to see these fucks fail.
+
+More DD: https://www.reddit.com/user/bcRIPster/comments/labq6u/follow_the_crumbs_gme_exposed_the_meta https://www.sec.gov/data/foiadocsfailsdatahtm
+
+Not a financial adviser, I eat paint chips for dinner
+
+EDIT: Ok, so I've been reading some comments and I wanted to clear a couple things up:
+
+* The failed to deliver number is reported cumulatively. So if you sum everything for the Jan time period it'd come out incorrectly as 5 million. What I'm doing is summing all the *debits* to get an aggregate view of all the failed to delivers in the time range. This process is validated and discussed in other /r/wsb posts
+
+* I know ETF's could have been redeemed by some MM's to gather up GME stock. However I'm not convinced there is enough GME held in ETF's to be a significant factor. Someone in the comments reported this amount to be about ~10M. We would know if a bunch of ETF's rebalanced and dumped GME.
+
+* My number for the Ortex short interest was incorrect, I got mixed around when I wrote this initially. The short interest reported by Ortex on Friday morning was ~80%. The 120 figure for S3 was correct. 
+
+* Please checkout the linked DD - it goes into much more detail and covers things far better than I can. 
+
+* Share this post and the related DD. We need to hold wall street accountable if this is true and I think that starts by spreading the word. 
+
+* I'm going to continue to dig into this tonight / tomorrow. Look forward to a new post tomorrow evening.
+
+
+If I take an L to 0, I take an L to 0. I don't invest what I can't lose. But you can bet your ass I'll be holding till this blows open.
+
+WE LIKE THE STOCK 💎🖐️There’s a lot of new people on here that don’t really understand the play going on right now on both sides and I felt like we need to clear up some misconceptions so you can make your own decisions. 
+
+**Why no spike today?**:
+
+First of all, we can’t know on what day the Squeeze happens / they cover their shorts. 
+All we know is it has to happen sooner or later since the hedgefunds are losing millions if not billions EVERY SINGLE DAY THEY DON’T COVER. 
+They use several tactics to delay it, but they can’t circumvent it.
+They’re bleeding, and all the retail investors holding are slowly sucking the blood out of their fat ugly bodies.
+
+It might take just a few days, or weeks...
+But eventually, when they cover, WE retail investors get to set the price.
+That’s why you keep seeing 10k (or 69420$) is not a meme. Because it’s not.
+
+We also know they’re down BAD. Why?
+Because they’re attacking us any way they can and wasting millions doing so.
+
+So let’s see what tactics they are using:
+
+**Short ladder attacks**:
+
+What is a short ladder attack? 
+The big hedgefunds are putting in lower and lower bid prices between themselves. There is little to no volume on those trades, and since no one can buy, it "looks" like the stock is plummeting. It’s only effective if we would sell. 
+
+https://www.reddit.com/r/wallstreetbets/comments/l9ay2s/short_ladder_attack_explained/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+https://www.reddit.com/r/wallstreetbets/comments/la6vcb/wall_street_plan_trying_to_psychologically_scare/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+Just look at the volume. People are not selling:
+https://www.reddit.com/r/wallstreetbets/comments/la5upr/dont_panic_and_just_look_at_the_fucking_volume/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+**Infiltrating WSB and other social media**:
+
+Here are some random screenshots I took of WSB Synth. Notice the people saying to jump ship and to take GME gains and invest into FORD. Obvious shills. There’s tons of them. Always new, or old accounts that suddenly post again. All those people came in just in time when the short ladder attacks started, just to make it look like people are panic selling and convince us to sell:
+https://www.reddit.com/r/wallstreetbets/comments/lahqex/notice_the_two_obvious_melvin_employees_time_to/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+**Manipulating the Media**: 
+
+Here are some News channels caught lying / manipulating the market: (SEC if you read this...)
+https://www.reddit.com/r/wallstreetbets/comments/la8n7o/fake_news/
+https://www.reddit.com/r/wallstreetbets/comments/la6e16/cnn_back_off_this_is_a_lie_literally_a_5_second/
+https://www.reddit.com/r/wallstreetbets/comments/l9runf/the_silver_squeeze_is_a_hedgefund_coordinated/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+https://www.reddit.com/r/wallstreetbets/comments/la8x7g/bloomberg_now_insisting_gme_is_old_news_ha/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+
+Now let’s get some clarification on **SILVER:**
+
+There is so much misinformation swirling around concerning Silver. People don’t seem to realize 3 things:
+
+1. **Silver is not a get rich quick move. Silver is a LONG TERM HOLD move.** GME is a risky short term play. So YOU decide what makes more sense to get in right now. (Personally I sold all my stocks to buy GME today. YOLO) 
+2. The actual Silver sub on reddit does not advocate buying SLV, nor do most of them believe SLV is the move to make. 
+3. The hedge funds would love for you to go all-in on Silver and ignore the GME opportunity. Every dollar spent on SLV instead of GME is a double win for them, since SLV is inverting GME and they own a ton of Silver and that’s why they’re pushing this narrative in the media. 
+
+SLV inverting GME: 
+https://www.reddit.com/r/wallstreetbets/comments/la4mog/stop_buying_slv_you_smooth_brained_retards_its/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+The amount of paper contracts or IShares SLV available is basically infinite. Physical silver is a rare physical commodity with a finite supply, and a very low supply of retail sized bars/rounds/coins.
+
+**IF** you want to go into silver for whatever reason, buy physical. But that’s just my retard opinion. 
+
+**SILVER ISN’T “REDDITS NEXT BIG PLAY“.** You guys need to realize the GME situation is very unique and WSB is not, and never was about starting crazy short squeezes. GME is a rare opportunity where the big guys actually fucked up BIG TIME.
+
+Silver squeeze not happening links: 
+https://www.reddit.com/r/wallstreetbets/comments/la1o04/there_is_no_silver_short_squeeze_happening_none/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+https://www.reddit.com/r/wallstreetbets/comments/la1xhf/guess_who_owns_tonnes_of_slv_options_fuck_citadel/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+https://www.reddit.com/r/wallstreetbets/comments/l9runf/the_silver_squeeze_is_a_hedgefund_coordinated/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+Well. Let’s see to what extend they fucked up exactly: 
+
+**Short Version:**
+The short version is that a review of the **'strategic fails–to–deliver'** data indicates that institutional insiders may have counterfeited a massive number of Gamestop shares which is why they tried to stop retail investors from buying more shares on Thursday.
+
+There are are **71 million shares** of GME that have ever been issued by the company. Institutions have reported to the SEC via 13F filings that they own more than **102,000,000** shares (including the 13% of GME stock is owned by Ryan Cohen).  That is already 30,000,000 shares more than even exist.
+
+On top of the shares reportedly owned by institutions, retail investors may currently hold 50+ million shares (counting both  long holdings and call options – both ITM and OTM).  
+
+Once you include call options, **retail investors may already hold more than 100% of GME (not just 100% of the float, more than 100% of the actual company)**. This would be definitive proof of illegal activity at the highest levels of the financial system.
+
+Long version here: https://www.reddit.com/r/wallstreetbets/comments/l9rk78/sec_doj_60_minutes_public_data_suggests_massive/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+**At these levels it’s NOT about the price, it’s about the number of shares in the hedgefunds possession. That’s why they want you to sell so bad.**
+
+🤚🏼💎🤚🏼💎🤚🏼💎🤚🏼💎🤚🏼💎🤚🏼💎🤚🏼💎🤚🏼💎
+
+Last but not least I’m holding because this is a once in a lifetime opportunity. I’m holding because I hope to see a better future and I’m holding for all you out there. 
+To the Moon or zero. 
+
+🦍🦍🦍 APES. STRONG. TOGETHER. 🦍🦍🦍
+
+Disclaimer: 
+This is not financial advice, I’m literally an ape. I just like the stock. Do your own DD and avoid the fake new and/or resurrected accounts here and the manipulative Media.
+
+Edit: wanted to post a few new posts but it seems like I’m shadow banned. No one can see my posts. 
+I don’t know if I got caught in some kind of spam filter.
+u/only1parkjisung can a mod confirm this?Dear SEC and President Biden,
+
+I am calling on you today, pursuant to 15 U.S.C.A. § 78i, titled Manipulation of Security Prices, to prohibit manipulative and deceptive tactics that artificially depresses the price of GME and AMC securities in contravention of the laws of the United States. 
+
+Section 78i(a) clearly states that "It shall be unlawful for any person, directly or indirectly, by the use of the mails or any means or instrumentality of interstate commerce, or of any facility of any national securities exchange, or for any member  of a national securities exchange -- **(2)**  To effect, alone or with 1 or more other persons, *a series of transactions* in any security registered on a national securities  exchange, any security not so registered, or *in connection with any security-based swap or security-based swap agreement* with respect to such security creating actual or apparent active trading in such  security, or **raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others."**
+
+Currently, GME and AMC stock prices are actively being manipulated using a mechanism called "short ladder attacks" to depress the price of these stocks in contravention of 15 U.S.C.A. § 78i. "Short ladder attacks" occur when large institutions in possession of the aforementioned stocks sell them for just less than market value in rapid succession between one another in order to drive the price down. The fact that short ladder attacks exist is apparent from on-going market activity that can be seen here
+
+ https://www.reddit.com/r/wallstreetbets/comments/la682h/visual_representation_of_a_short_ladder_attack_4/ 
+
+https://i.gyazo.com/d33d2d9346092b3c041c54fc394225c3.png
+
+(Check this from the huge dip last Thursday. No volume but still an enormous dip in price)
+
+https://preview.redd.it/nmiqx27md4e61.jpg?width=1170&format=pjpg&auto=webp&s=f3e61c081b3332670eaa8b972c309c6d56177e33
+https://www.reddit.com/r/wallstreetbets/comments/l71yxn/ladder_selling_explained/
+
+check this out
+
+Such blatant attacks readily establishes prima facie case of market manipulation and must be investigated by the SEC immediately. Further silence from the SEC on this matter, which can be investigated quite quickly, not only encourages further market manipulation but also further diminishes public trust and faith in the U.S. Government.
+
+Finally, section 78i(f) makes it clear that "Any person who willfully participates in any act or transaction in  violation of subsections (a), (b), or (c) of this section, **shall** be liable to any person who shall purchase or sell any security at a price  which was affected by such act or transaction."  
+
+
+I am calling on you to do your job. The direct manipulation of GME and AMC stock prices is an on-going crisis that directly hurts the public interest and is AGAINST THE LAW. You must act now before it is too late.
+
+Sincerely,
+
+Your Average Retail Investor
+
+Edit: Feel free to copy, share, do whatever with this. I really don’t care. My work is worthless unless something is actually done to stop this. Also, thank your for the awards 💎🙌
+
+Edit 2: if you want to copy this, go ahead, if you’re having trouble, dm me and I’ll send it to you directly
+
+Edit 3: There was a suggestion to post this on Twitter. Whoever wants to can go ahead or dm me if you need to make it smaller. 🙏
+
+Edit 4: So, I have sent this to the SEC, but I expect nothing more than a form letter, which is basically a garbage non-answer (Google it). I’d rather this get some media coverage so feel free to spam this on Twitter or w/e. No credit necessaryDISCLAIMER: This post is NOT Financial Advice!  
+   
+  
+This is actual DD of just statistical, cold hard facts. My previous post got removed by the compromised mods of r/wallstreetbets
+  
+  
+[I have access to Bloomberg Terminal with up to date data as of February 5 on institutional holdings. Institutions currently hold 177% of the float!](https://i.redd.it/c44cmb67mtf61.png)  
+  
+  
+[How is this even possible to own more than 100% of the float?](https://www.investopedia.com/ask/answers/07/institutional_holdings.asp) Here's an example of one of the most likely causes of distorted institutional holdings percentages. Let's assume Company XYZ has 20 million shares outstanding and Institution A owns all 20 million. In a shorting transaction, institution B borrows five million of these shares from Institution A, then sells them to Institution C. If both A and C claim ownership of the shares shorted by B, the institutional ownership of Company XYZ could be reported as 25 million shares (20 + 5)—or 125% (25 ÷ 20). In this case, institutional holdings may be incorrectly reported as more than 100%.  
+  
+  
+In cases where reported institutional ownership exceeds 100%, actual institutional ownership would need to already be very high. While somewhat imprecise, arriving at this conclusion helps investors to determine the degree of the potential impact that institutional purchases and sales could have on a company's stock overall.  
+   
+  
+I have plausible evidence that leads me to believe there are still shorts who have not covered, and there are also shorts who entered greedily at prices that could still trigger a short squeeze event as this knife has been falling. [~1 million shares of GME were borrowed this Friday at 10 am, and a short attack occured that dropped GME from $95 to $70 over the course of 15 minutes.](https://i.redd.it/97j13bxy4pf61.jpg)  
+  
+  
+[This is my source for live borrowed shares data that you can watch during market hours.](https://iborrowdesk.com/report/GME)  
+
+So we still meet the first requirement for a short squeeze to even be possible, there ARE a lot of short positions taken in GME still. The ultimate question is will there be enough demand to drown the supply? Or are we going to let the wolf in sheep's clothing aka Citadel who we know is behind not only these short positions bailing them out and purchasing puts themselves (data from 9/30/20) , but behind many brokerages who ultimately manipulated the supply demand chain by removing buying...are we really going to just let this happen? What they did last Thursday was straight up criminal.   
+  
+  
+Institutions move the markets more than retailers unfortunately, especially when order flows go directly through Citadel. [But it is very interesting the amount of OTM calls weeks out compared to puts. This is options expiring 3/12/21, and all the earlier expiration dates are also heavy in OTM calls.](https://i.imgur.com/mv0bo4Y.png) Max pain theory states it is in the market maker's best interest (those who write options aka theta gang) for price to gravitate towards max pain, as the strike price with the most open contracts including puts and calls would cause financial losses for the largest number of option holders at expiration.  
+  
+  
+With this heavy volume abundant in OTM calls, a gamma squeeze can occur if we can get the market makers to hedge against their options. [Look what triggered the explosive movement as price blasted past the max pain strike last week, I believe this caused many bears to have to take a long position as a way to hedge against their losses.](https://i.imgur.com/NHZg0O6.png) And right now, we are very close and gravitating towards max pain strike. If there is a catalyst/company event that can cause demand to increase, I believe GME is not dead for all the aforementioned reasons above. Thank you for taking your time to read my DD, my original post on wsb was removed by the mods.
+MODS please don't delete! This is actual DD of just statistical, cold hard facts. My previous post got deleted, if this one does too, spread the word.  
+  
+  
+[I have access to Bloomberg Terminal with up to date data as of February 5 on institutional holdings. Institutions currently hold 177% of the float!](https://i.redd.it/c44cmb67mtf61.png)  
+  
+  
+[How is this even possible to own more than 100% of the float?](https://www.investopedia.com/ask/answers/07/institutional_holdings.asp) Here's an example of one of the most likely causes of distorted institutional holdings percentages. Let's assume Company XYZ has 20 million shares outstanding and Institution A owns all 20 million. In a shorting transaction, institution B borrows five million of these shares from Institution A, then sells them to Institution C. If both A and C claim ownership of the shares shorted by B, the institutional ownership of Company XYZ could be reported as 25 million shares (20 + 5)—or 125% (25 ÷ 20). In this case, institutional holdings may be incorrectly reported as more than 100%.  
+  
+  
+In cases where reported institutional ownership exceeds 100%, actual institutional ownership would need to already be very high. While somewhat imprecise, arriving at this conclusion helps investors to determine the degree of the potential impact that institutional purchases and sales could have on a company's stock overall.  
+   
+  
+I have plausible evidence that leads me to believe there are still shorts who have not covered, and there are also shorts who entered greedily at prices that could still trigger a short squeeze event as this knife has been falling. [~1 million shares of GME were borrowed this Friday at 10 am, and a short attack occured that dropped GME from $95 to $70 over the course of 15 minutes.](https://i.redd.it/97j13bxy4pf61.jpg)  
+  
+  
+[This is my source for live borrowed shares data that you can watch during market hours.](https://iborrowdesk.com/report/GME)  
+
+So we still meet the first requirement for a short squeeze to even be possible, there ARE a lot of short positions taken in GME still. The ultimate question is will there be enough demand to drown the supply? Or are we going to let the wolf in sheep's clothing aka Citadel who we know is behind not only these short positions bailing them out and purchasing puts themselves (data from 9/30/20) , but Robinhood who ultimately manipulated the supply demand chain by removing buying...are we really going to just let this happen? What they did last Thursday was straight up criminal.   
+  
+  
+Institutions move the markets more than retailers unfortunately, especially when Robinhood's order flows go directly through Citadel. [But it is very interesting the amount of OTM calls weeks out compared to puts. This is options expiring 3/12/21, and all the earlier expiration dates are also heavy in OTM calls.](https://i.imgur.com/mv0bo4Y.png) Max pain theory states it is in the market maker's best interest (those who write options aka theta gang) for price to gravitate towards max pain, as the strike price with the most open contracts including puts and calls would cause financial losses for the largest number of option holders at expiration.  
+  
+  
+With this heavy volume abundant in OTM calls, a gamma squeeze can occur if we can get the market makers to hedge against their options. [Look what triggered the explosive movement as price blasted past the max pain strike last week, I believe this caused many bears to have to take a long position as a way to hedge against their losses.](https://i.imgur.com/NHZg0O6.png) And right now, we are very close and gravitating towards max pain strike. If there is a catalyst/company event that can cause demand to increase, I believe GME can still be squoze for all the aforementioned reasons above. Thank you for taking your time to read my DD, please mods do not delete.  
+  
+Edit: This post was removed, then reinstated, and I am now banned unable to comment and post to this subreddit  
+  
+Edit 2: hi u/OPINION_IS_UNPOPULAR , I would comment and post but I am literally unable to on this subreddit
+  
+Edit 3: I'm unbanned!Fellow Apes, I have seen a lot of discussion on the possibility of hedge funds covering and whether or not they could have covered during the RH shutdown. I have done some analysis and would like to shares my results. This is not investment advice and should not be construed as such.
+
+I know you guys can't read, but I highly recommend learning how to read and reading this.🚀🚀🚀
+
+**Part 1: What Happened on the 28th?**
+
+As we all know, last Thursday on the 28th RH and other brokerages disabled the purchase of GME shares at a critical moment that very well may have been the beginning of the squeeze. This is a significant day because it broke momentum, and many users seem to believe that the hedge funds planned this moment to strategically cover their short positions.
+
+[Here is a graph of the 28th with some of my analysis](https://imgur.com/a/XyG9sfV)
+
+[Here is a tweet from Ihor (S3) stating the short interest data as of the 28th](https://twitter.com/ihors3/status/1355194252674953219?s=20)
+
+Per S3, Short Interest was 62.9M as of the 27th and 57.8M as of the 28th. The net SI is (57.8M)-(62.9M)= -5.08M. This means the net short position reduced by 5.08M shares, however, many users claim that hedge funds may have used this opportunity to shift their short position higher so that they could minimize losses by covering on the way back down.
+
+Well lets say that's what happened, and lets assume it was carried out flawlessly. We will also assume this happened in a vacuum, i.e. retail did not contribute to any volume, so that we can get a liberal estimate.
+
+To establish a short position at a higher price, hedge funds would be borrowing to short sell shares for the first 30 minutes as the price quickly rose to $482.85. If the entire volume during this period of time was hedge fund short selling, than they would have opened 15.8M more short positions. ~10M in volume happened in the first 10 minutes, so at best they would have 10M more shares sold short between $275 and $350, and the remaining 5.8M positions would be opened between $350 and $480.
+
+This means that if shorts added to their position at this time, the best they could have done is add ~15.8M short positions at an average ~$300. This is assuming **no covering** was done during this period of time, which is highly unlikely considering the price **went up.**
+
+Now, during the freefall following RH trade restrictions, there was only 10.4M in volume. If hedge funds used this moment to cover old positions at a reduced price, they would have only been able to cover 10.4M positions, and 5.7M of those positions would have been covered at a cost greater than $300, only 4.7M could have been between $300 and $112. This is a minuscule amount of covering despite the ideal period of time, and it doesn't even account for that fact that **covering would drive the price up, not down.**
+
+Lastly, after the nosedive there was a bounce of ~9.2M in volume. If we were to assume hedge funds were again able to add more short positions here to transition into a better average, they would only be able to add 9.2M at an average of ~$250. Once again, however, adding positions would have drove the price down, not up.
+
+So even in the most ideal situation using RH's restrictions and ignoring market mechanics, shorts would have only been able to add 25M ideal short positions at an average of ~$280, while covering only 10.4M at exorbitant costs.
+
+This likely didn't happen, for several reasons. 
+
+First, S3 reports that short interest decreased by 5M on the 28th. Now of course there is plenty of volume to cover after the first half of trading, however, they would be at non-ideal prices.
+
+Second, this theory is impossible because when shorts cover en mass, the price would increase not decrease, and when shorts sell en mass, the price would decrease not increase. 
+
+Third, this is assuming that 0 volume was from retail investors trading between eachother, also highly unlikely given the hype at the time. 
+
+Fourth, in order to sell something short you need to borrow a share, and we know that, at that time, GME was **hard to borrow.** 
+
+What is more likely is the **inverse** of the above, which would mean shorts covered 15.8M shares at an average cost of $300, then short sold 10.4M shares at an average of $250, before further covering 9.2M at an average of $250. **Despite ideal circumstances, that is not an ideal result for hedge funds.**
+
+That means hedge funds **are not** kicking back and counting stacks after swapping their positions to $480 sell points, that would be impossible.
+
+**Part 2: What About Last Friday?**
+
+Now this was an important day, GME fought hard and closed at above $320. What makes this day confusing, however, are the claims that short interest drastically decreased.
+
+[Here is a chart of the 29th with my analysis](https://imgur.com/a/nU0JOXs)
+
+[Here is a tweet from S3 claiming short positions decreased by 30M shares by the end of Friday](https://twitter.com/ihors3/status/1356018482471718916?s=20)
+
+Now I won't get into detail about the other factors that call this claim into question, you can look into those on your own. What I want to go over is **how could it be remotely possible?**
+
+S3 claims 31M shares were covered on the 29th, however the share price had a net decreasing trend. There were only 2 notable upward rallys, and combined they only account for 24M shares. If hedge funds covered the whole 24M in volume it would still be 6M shares off and thats not even accounting for retail investors trading between themselves. Where did the other 6M shares go? I find it hard to believe they could cover 6M shares with no significant upward momentum while retail investors were buying shares in a frenzy on friday.
+
+[Also note that Short Volume was 17.6M on Friday](https://fintel.io/ss/us/gme)
+
+So on Friday there was 50M in volume. 17.6M of that volume was due to shares sold short, so SI would be (57.8 SI as of the 28th)+(17.6M shares sold short) = 75.4M. In order for short interest to have decreased to around 27M as [S3 said](https://twitter.com/S3Partners/status/1356317744300490752?s=20), it would have required the covering of (75.4M)-(27M) = 48.4M shares. **How do you cover 48.4M shares when there is only 50M volume and 17.6M of that volume was used to ADD SHORT POSITIONS?**
+
+**There simply was not enough volume to cover a net 31M shares. At most, 32.4M shares TOTAL could have been covered if EVERY single purchase of GME was by a hedge fund with a short position, which would make SI (75.4M)-(32.4M) = 43M. It is highly unlikely that not a single retail investor, insider or institution purchased GME shares on Friday, so the actual SI is likely much higher.**
+
+Furthermore I want to draw attention to **other times shares were covered** and their effect on the price, and you tell me if hedge funds could cover 31M NET shares last Friday.
+
+[S3 claims](https://twitter.com/ihors3/status/1355249817048522755?s=20) that from Jan 12th to Jan 14th, the SI went from ~69M to ~62M, a decrease of 7M shares. On the 12th GME was worth $20 and by the 14th we saw a high of $43, an >100% increase.
+
+They then claim that from the 14th to the 25th, there was a slight steady increase in SI as the share price crawled towards $50. From the 25th to the 27th there was literally **exponential growth** in the share price **despite no change in SI**. But then, all of a sudden, on the 28th there is a net decrease of 5M short positions and a significant reduction in price, and on the 29th there is a net decrease of 31M shares along with a steady decline in price. How could that be remotely accurate?
+
+There was 50M in volume on the 29th, how could the purchase of >31M shares by a single entity, not even accounting for retail, result in a net decrease in share price? 
+
+**Part 3: How Could They Do It?**
+
+[Read this post, and the sources within it, in detail](https://www.reddit.com/r/wallstreetbets/comments/ld5rd9/evidence_pointing_to_shorts_did_not_cover/?ref=share&ref_source=link)
+
+Shorts can use deceptive options trades to trick you and other short interest analyzers into believing they have covered **when they have not**
+
+There were $43M worth of mid March 800c purchases, you do the math.
+
+Why was their a silver rush pulled out of thin air on monday? Why is the media still aggressively spreading FUD? Why are there bots everywhere in WSB? Shorts haven't covered, they can't cover and they wont. They also **did not** shift themselves into an advantageous short position last Thursday, there was only 19M in short volume total and minimal volume during ideal circumstances. They want you to think they covered, they also want you to think they have a better short position. 
+
+They want you to think this is over because there may not be enough shares for them to cover even if they wanted to. If there were they would have repositioned on Thursday. Brokerages restricting buying for retail investors was likely due to the fact that shorts couldn't find the shares to cover, nor could they find enough shares to reposition. They really need your shares and want to funnel them away from retail.
+
+TLDR: Seriously, read this whole thing. I know you won't, but do it. Hedge funds did not transition to better short positions during the RH fiasco last Thursday, it would have been impossible to do so in meaningful amounts. They also did not cover 31M shares last Friday, it would have been impossible based on volume alone. They want you to think they did, they need you to, but they did not.
+
+Disclaimer: I am not a financial advisor, nor am I licensed or in any way qualified to dictate or advise your trading decisions. This is not financial advice. This analysis is not meant to influence, inspire, or inform you regarding your trades. This analysis was written purely as speculation and could be entirely incorrect. I found my own analysis interesting and wanted to share my unprofessional opinion. Furthermore, while these numbers are accurate as per their sources, they may not account for other factors that relate to the stock’s activity. I own shares of GME.
+
+Monke Storng Together🦍, Memestonk to the Moon🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀Wow - what a week. This is an extension of my DD series on GME. If you haven’t read them and have time, they will provide some background on my previous predictions, some of which have already come true.
+
+# Previous Important Posts
+
+* [EndGame Part 1](https://www.reddit.com/r/wallstreetbets/comments/kwb827/gme_endgame_dtc_infinity/) (DTC Infinity) covered the short positions, the float, and potential snowball impacts of increasing prices, and argued that part of the reason that shorts haven’t closed was that it was pretty much impossible for shorts to close
+* [EndGame Part 2](https://www.reddit.com/r/wallstreetbets/comments/l0czgs/gme_endgame_part_2_cohen_market_cap_potential/) covered Cohen, fair market cap analysis, and potential investors, in which I talked about the amazing mid-to-long term potential for GME.
+* After the Citron tweet, I shared this [fan fiction on what looked like blatant market manipulation by shorts](https://www.reddit.com/r/wallstreetbets/comments/l1tg88/gme_how_shorts_manipulated_you_and_how_you_can_be/) on the day of the tweet, and offered some education on strengthening your position. This one got buried and is worth reading.
+
+# What’s happened thus far
+
+## Why did GME go up on Friday?
+
+The story here is more complex than paid media articles would like you to believe. GME has been driven up by 3 different forces:
+
+* Organic buying
+   * There is a mixture of growing positive sentiment in the investor world (not just WSB) about GME’s future
+   * There’s been a lot of good due diligence shared not just on WSB but even outside (for example, see gmedd.com)
+   * The Citron Backfire
+      * Shorts were on the ropes and kept looking for hail mary’s. They went to Citron and [coordinated a dump](https://www.reddit.com/r/wallstreetbets/comments/l1tg88/gme_how_shorts_manipulated_you_and_how_you_can_be/) to try to bring the price down.
+      * However, this backfired. Citron is so disliked in the industry that new wealth poured into GME in the face of Andrew Left’s pleas. Even when Benzinga brought Andrew Left on air, **minutes after he left** [they bought shares live on their show](https://youtu.be/mFiFWBrE5DE?t=5104)**.**
+      * The next day, our very on u/Uberkikz11 [was on Benzinga](https://youtu.be/GLzTU87MJMM?t=837) and more shares were bought.
+   * Larger investors piling in
+      * In my [EndGame Part 2](https://www.reddit.com/r/wallstreetbets/comments/l0czgs/gme_endgame_part_2_cohen_market_cap_potential/), I hypothesized that we’d soon see larger investors pile in. Then, on WSB, we saw posts from a [venture capitalist](https://www.reddit.com/r/wallstreetbets/comments/l0yzb5/a_venture_capital_perspective_on_gme/) as well as a [hedge fund investor](https://www.reddit.com/r/wallstreetbets/comments/l2zk5e/a_hedge_fund_managers_perspective_on_gme/)
+* Gamma squeeze
+   * Once the organic buying started, we rolled into a gamma squeeze. Many people written about the gamma squeeze so I won’t repeat, see [this post](https://www.reddit.com/r/wallstreetbets/comments/l2t9bf/gme_i_think_this_is_a_gamma_squeeze_where_dealers/) for an example.
+* Ultra low liquidity - In EndGame part 1, I talked about how the actual actively traded shares are much lower than the reported float, and **share availability has been reducing** driven by lots of diamond hands, not just among smaller guys like us but the larger folks too.
+* I believe there were some short covers on Friday, but Ortex was still estimating 71M shares short at the eod.
+
+However, not many people have talked about why it **went down**
+
+## Why did GME come down?
+
+Here’s where things got interesting for me, and something I think happened again today (Monday) when GME climbed up over 100% but then had a rapid reversal, closing 20% above yesterday but closing below open.
+
+So Friday looked like a slam dunk - gamma squeeze, no shorts available to short, puts were getting exceedingly expensive as a short tactic. What happened?
+
+This is my fan fiction, based on what I saw.
+
+**I believe** [**market-makers**](https://www.nyse.com/markets/nyse/membership) **took a non-neutral stance and began actively shorting the stock after the second halt.**
+
+Market-makers are responsible for maintaining liquidity and functioning in the stock market, but they also have abilities that others don’t - for example they are legally allowed to naked short for “liquidity purposes”. They also have the ability to halt trading.
+
+There were two halts in the day on Friday: First, when GME was up 69% (heh heh), and then a few minutes later when it kept climbing after the first halt was relaxed. Note that at the time of the first halt, the **bid-ask spread was $10 on the underlying** a huge signal that there just were not enough shares to buy.
+
+However, after the second halt, something strange happened. Whereas a few minutes prior, there were no sellers willing to sell their shares below $75, **within 15 minutes** after the halt there were sellers at 70, 65, 60, and 56. Where did these sellers come from?
+
+&#x200B;
+
+[Incredible momentum reversal on Friday 1\/22 to push the price not too far above the 60c strike price. ](https://preview.redd.it/tt5zodp6pkd61.png?width=704&format=png&auto=webp&s=fa22980543213227bf5b3d17166129ac6cb65a65)
+
+My speculation? This was a coordinated **naked short ladder attack**. In this type of attack, short seller A sells to short seller B, who then turns around to short seller A at a lower price, etc. and with a **very small amount of capital** you can wreck the momentum of a stock and make people think that others are running for the exits.
+
+Notice how the stock dropped from a high of $75 on Friday to below 60 - the highest expiring SP for the 1/22 options, and stayed tight in range for the rest of the day. Now, for compliance reasons, MM are required to be neutral by EOD, so 20 minutes before close, MMs had to buy back all their short positions, which led to the strong close above 60.
+
+All this led me to believe that the **real fair market price for GME was above $65.** Without the market makers interference, GME would have closed higher.
+
+## A repeat on Monday
+
+The short ladder attack repeated on Monday.
+
+GME opened strong above $90, and quickly climbed to **a high above $155** before it was halted, immediately after the halt, a **short ladder attack again** drove the price down
+
+&#x200B;
+
+[Dejavu - Incredible Momentum Reversal after trading halts. ](https://preview.redd.it/qm81rd0dpkd61.png?width=637&format=png&auto=webp&s=4b4563e7dd2e626fb09dca69668c24631932e707)
+
+Both days, there **were rapid and significant reversals in momentum.**
+
+Now, I kept wondering - why would MM’s take the side of the shorts? What’s in it for them? One theory was that they were not adequately hedged, with the low liquidity of the stock meaning that the price was moving up too fast for them to acquire the shares they needed to.
+
+But then the news hit today:
+
+# A new opponent enters the ring:
+
+&#x200B;
+
+https://preview.redd.it/8htb0scgpkd61.png?width=926&format=png&auto=webp&s=228a8a84e592ea4642a61c5e07e07ae344ac8f2c
+
+That’s right, the **same Citadel** [**listed by the NYSE as one of their designated market makers**](https://www.nyse.com/markets/nyse/membership) is now invested in Melvin’s hedge fund and has a financial interest in the direction of GME’s share price.
+
+**Hey media - you want a manipulation story? You’re missing the big one.**
+
+# Now what?
+
+Shorts have pulled new dirty tactics each time they’ve been pushed to the edge. Paid media attacks, Citron’s fluff tweet + coordinated shorting, and now they’ve got the **actual people who get all the order flow on their side.**
+
+On the other hand, GME is still up over 20% and now trading at $88.00 after hours, which is well above the previous day’s high.
+
+&#x200B;
+
+https://preview.redd.it/rr5qet4ipkd61.png?width=724&format=png&auto=webp&s=96d28bf446a714906712503726f5903a681d5368
+
+What this tells me is that GME’s **true price is still being suppressed**. They are using every tactic possible, even changing the [bid-ask spread rules](https://thefly.com/permalinks/entry.php/id3233043/GME;IRBT-NYSE-changes-bidask-differentials-on-options-for-GameStop-iRobot) on options to specifically target retail’s buying of options.
+
+We’re now playing the game against the folks who write the rules of the game.
+
+Some shorts may have covered today - with prices below $60 at one point they had some great opportunities to. However, there is **no way all of the shorts who need to exit covered today.**
+
+The short position still lost 20% from yesterday. They’ve got more fingers in the dam, but it’s definitely cracking. Also, **every call option purchased prior to 1/25 is ITM and profitable,** while **every put option purchased prior to 1/25 is OTM.**
+
+And, for some reason, the SEC still doesn’t want to enforce the threshold securities list for GME, where it’s now **been on for more than 30 days in a highly covered “short squeeze”.**
+
+&#x200B;
+
+https://preview.redd.it/rbrf6khjpkd61.png?width=936&format=png&auto=webp&s=7e4f432ff02dbf475a03cc68c54a5a0f5f0de429
+
+# Margin impacts:
+
+Note that at this point, most brokers have increased margin on GME. This means that people that are long or short on margin will need to put up capital to hold their positions.
+
+This also means **puts will get more expensive** as people who sell puts will have to maintain 100% of the notional in their accounts to secure the put, so MMs will have fewer retail sellers of puts to absorb the demand.
+
+That means it’s not a bad idea to sell puts to acquire shares if you’re aiming for the long-term and not the squeeze, but keep in mind you’ll need the exact same capital as if you’d bought the shares, so it’s up to you on this.
+
+For shorts, a margin increase while the price is moving against you (even with retracements) is no good.
+
+# My speculation
+
+* Cohen and the GME board have been strangely silent this entire run. It’s possible they can’t say anything at all during the pre-earnings quiet period, but I’m sure they can see what’s happening.
+* MMs will continue to play dirty, but at the same time they will need to continue to need to buy GME shares to delta hedge 1/29 and later ITM options as we get closer to expiry.
+
+# Things to be careful about
+
+As you can see, this is no easy win. I've been in GME for a few months but I've seen almost every trick in the book. In addition to the [suggestions I wrote about in this post](https://www.reddit.com/r/wallstreetbets/comments/l1tg88/gme_how_shorts_manipulated_you_and_how_you_can_be/), here’s some things to be careful about.
+
+* **Be careful about swapping ITM calls for OTM calls:** it can be tempting to trade-up your options for higher return, but be mindful of the delta impact. You may actually be driving the sale of shares by MMs when you don’t mean to. For example, if you sell a .5 delta call for 2 .2 delta calls, that’s net reduction of 10 shares that MMs have to hold long as leverage.
+* **Be careful about being short any calls this week:** Not only do you limit your upside (which is dumb in the prospect of a squeeze), you could end up in a nightmare scenario. A call that ends OTM on Friday could end up ITM after hours if you didn’t sell it, and you may get assigned while the underlying continues to go up.
+* **There are a few other dirty tactics shorts can play.** I’m not specifically going to share them here because I don’t want to give the ideas circulation, but
+   * **Choose your own limit sells based on personal sell points.** Don’t copy others and don’t try to be memey. Make your own decisions.
+   * **Stop sharing your positions publicly.** I know this is anti-wsb, and I think sharing them is great for this community, but in the case of GME it’s an **attack vector** for you.
+* **Be careful of holding weeklies until expiration.** Remember the multiple trading halts? What if trading gets halted on Friday at 2pm and doesn’t resume for the rest of the day? **All your 1/29 calls would expire worthless. Depending on your broker and your cash positions, maybe even your ITM ones.** Roll (or sell, if you’re taking profits) your weeklies well before expiration.
+* **Be careful about buying on margin.** Brokers are rapidly increasing margins. If you bought on margin with 2:1 leverage, and the stock went up 100%, you’d be in margin call even without a margin change. If the broker moves margin against you, you’ll get to margin call faster.
+* **Don’t bet more than you can afford to lose.** I’ve been in GME long enough to know that just when you think going up is a sure thing (remember last Monday with the short sale restriction?), you can be surprised by a new trick. If you bet it all on weeklies all at once, you may not be able to recover from being wrong on the timing. Consider longer expiry or spreading your purchases out. I’ve held through multiple 30-40% drawdowns in the underlying; and **held through a 50% drawdown today**, so you need to be ready for the volatility.
+* **Watch out for stop loss hunts.** It’s common practice for shorts to hunt for stop losses for cheap shares. If you’ve set a stop loss, be really sure about it.
+
+This is not financial advice; do your own DD. I’m holding over $1M in shares and calls.
+
+# 1/26 Update
+
+Hi everyone. Sorry for not posting or replying to comments. I was auto-banned from WSB when this post was auto-deleted by the auto-mod. Thanks to u/zjz to reversing the auto-deletion of the post though as it looked like it was helpful to the community.  
+
+Hope you all made a ton of money today!
+
+**Quick Notes:**
+
+* At an after-hours price of **$209 a share**, **every call option, for every expiry, for every strike price is in-the-money. This is the third time this has happened for GME recently.** Amazing. What this means now is that market makers will need to buy a lot of shares to hedge for the calls expiring this week. Heed my above warnings. 
+* At this price, shorts **will start to get liquidated.** Combining the 400% weekly gain with the margin requirements increasing across the board, brokers will force close short positions. Starting maybe with the small guys, but it will cause a ripple effect. **Things could move fast.** Some funds may get additional bailouts this week to hold out. 
+* **You need to decide your own exit.** Only you know how much $ you're playing with, how much you're willing to lose, how important the $ is to you, etc. **Minimize you're regret, don't maximize your profits.** If you are thinking about taking profits this week, spread out your sells so you don't kick yourself over timing things poorly. Personally, I think we are in **unprecedented territory** and that there's no way all of the shorts have exited already, so we're not done. I could be wrong. See EndGame part 1. 
+* **Close spreads.** With every call ITM, you are at the risk of early-assignment. If you don't watch closely, you could be hit with sky-high hard-to-borrow fees and get killed on what you thought was a profitable trade. 
+* **Watch for ripple effects. This is already happening.** When funds get liquidated, they have to buy back all their other shorts (see AMC, BBBY) and sell their longs (look at BABA after-hours). Want to play GME without playing GME? Maybe throw a little $ at BBBY. You do you. 
+* In EndGame Part 2, I talked about potential investors, and how the higher price is gonna attract the bigger $. Today we saw Chamath, Winklevoss, and others. And then Elon tweeted and simultaneously stimulated the buying frenzy and scared the crap out of shorts. I'm just gonna copy what I said about this potentiality
+   * ***Elon****: (Least likely, completely improbable, but cataclysmic event). Elon hates shorts. Elon, with TSLA, went through the pain that GME is going through. TSLA almost went bankrupt because shorts were pushing the price down so it was difficult to raise the cash they needed to survive. Sound familiar?* ***Elon’s wealth swings more in a day than GME is worth in entirety.*** *Elon could* ***buy all the fucking float of GME with what he makes in 8 hours****. One call from fellow entrepreneur and* [*aspiring twitter-meme-god*](https://twitter.com/ryancohen) *would absolutely wreck the game.*
+
+1. ***If you are short gamestop****, you are one meme purchase by the richest man in the world away from a fucking cataclysmic event. "Hey son, I heard you like games. So I bought you gamestop. All of it." 🚀*
+
+&#x200B;
+
+&#x200B;I've spent the past 5 fucking hours researching this shit and stumbled across some absolutely GAME CHANGING information that everyone should know about.
+This is a long read but bare with me, this is some important shit and it will make your diamond hands even diamondier.
+
+> Short selling involves a sale of a security that the seller does not own or a sale which is consummated by the delivery of a security borrowed by, or for the account of, the seller. Short sales normally are settled by the delivery of a security borrowed by or on behalf of the seller.
+
+> In a ‘‘naked’’ short sale, however, the short seller does not borrow securities in time to make delivery to the buyer within the standard three-day settlement period. As a result, the seller fails to deliver securities to the buyer when delivery is due.
+
+> **Sellers sometimes intentionally fail to deliver securities as part of a scheme to manipulate the price of a security, or possibly to avoid borrowing costs associated with short sales, especially when the costs of borrowing stock are high.**
+
+**This is what happened today with the price decrease**
+
+Source: https://www.sec.gov/rules/final/2009/34-60388fr.pdf - Section "II. Background"
+
+#IMPORTANCE OF FAIL-TO-DELIVER
+
+The SEC just released the Fail-To-Deliver data for the first half of January.
+
+> **DATE|SYMBOL|QUANTITY (FAILS)|DESCR.|PRICE**
+
+> 01-04-2021|GME|182,269|GAMESTOP CORP (HLDG CO) CL A|18.84
+
+> 01-05-2021|GME|490,723|GAMESTOP CORP (HLDG CO) CL A|17.25
+
+> 01-06-2021|GME|772,112|GAMESTOP CORP (HLDG CO) CL A|17.37
+
+> 01-07-2021|GME|799,328|GAMESTOP CORP (HLDG CO) CL A|18.36
+
+> 01-08-2021|GME|555,658|GAMESTOP CORP (HLDG CO) CL A|18.08
+
+> 01-11-2021|GME|703,110|GAMESTOP CORP (HLDG CO) CL A|17.69
+
+> 01-12-2021|GME|287,730|GAMESTOP CORP (HLDG CO) CL A|19.94
+
+> 01-13-2021|GME|662,524|GAMESTOP CORP (HLDG CO) CL A|19.95
+
+> 01-14-2021|GME|621,483|GAMESTOP CORP (HLDG CO) CL A|31.40
+
+Source: https://www.sec.gov/data/foiadocsfailsdatahtm
+
+To nobody's surprise, Gamestop short sellers Fail-To-Deliver a whopping... 
+
+~~5 MILLION~~
+
+*edit: Apparently the Fail-To-Deliver is not cumulative, but as of 1-14 it's 621,483 and that number can only be higher now. Regardless, the sentiment stands.*
+
+shares of the stock meaning these short sellers are using Naked Short Selling and intentionally failing to deliver securities in order to avoid borrowing costs and manipulate the price of the stock downward.
+
+# What's to be done?
+
+Rule 204.
+
+> Rule 204 — Close-out Requirements. Under Rule 204, participants of a registered clearing agency (as defined in section 3(a)(24) of the Exchange Act) must deliver securities to a registered clearing agency for clearance and settlement on a long or short sale transaction in any equity security by settlement date, or must close out a fail to deliver in any equity security for a long or short sale transaction in that equity security generally by the times described as follows: the participant must close out a fail to deliver for a short sale transaction by no later than the beginning of regular trading hours on the settlement day following the settlement date, referred to as T+4; if a participant has a fail to deliver that the participant can demonstrate on its books and records resulted from a long sale, or that is attributable to bona-fide market making activities, the participant must close out the fail to deliver by no later than the beginning of regular trading hours on the third consecutive settlement day following the settlement date, referred to as T+6. In addition, Rule 203(b)(3) of Regulation SHO requires that participants of a registered clearing agency must immediately purchase shares to close out fails to deliver in “threshold securities” if the fails to deliver persist for 13 consecutive settlement days. Threshold securities, as defined by Rule 203(c)(6), are generally equity securities with large and persistent fails to deliver.
+
+You can read more about this here: https://www.law.cornell.edu/cfr/text/17/242.204 lots of information that I haven't covered.
+
+Gamestop *is* or will be classified as a threshold security due to the massive amounts of Fail-To-Deliver's they've accumulated this month, this means short sellers are legally forced to close their short positions and clearing houses will be be required to immediately purchase shares within the time-frame stated above. AKA SQUEEZE WILL BE SQUOZEN.
+
+Edit: According to [this](https://www.theocc.com/Market-Data/Market-Data-Reports/Series-and-Trading-Data/Threshold-Securities-List) website, Gamestop IS listed as a threshold security.
+
+#SHORT SELLERS ARE UNDER THE THUMB, AND ITS ONLY A MATTER OF TIME BEFORE THEY'RE SQUEEZED.
+
+Their last hail mary is to manipulate the price downward as much as possible to lessen the blow of the inevitable squeeze. We literally have them by the balls and all we have to do is HOLD.
+
+#TL:DR
+
+The short squeeze is a ticking time bomb right now and all we have to do is hold to win. In a matter of days, short sellers will be FORCED to close their positions and clearing houses will be forced to purchase shares for all Fail-to-Delivers forcing the price to skyrocket and the squeeze to be squozen.
+
+HOLD TIGHT YOU RETARDS, WE'RE GOING TO THE MOON. 🚀🚀🚀🚀🚀🚀🚀🚀
+💎💎💎💎💎
+🙌🙌🙌🙌🙌
+
+*I am not a financial advisor, this is not financial advise, I'm a retard. Don't listen to me. I just like the stock.*# THIS IS A META THREAD IN WHICH I'M JUST DOING 2 THINGS: RANTING AND LINKING TO OTHER DD THREADS THAT PREDATE GME MOONING BY MONTHS, THUS CALLING BULLSHIT ON THE 6 MILLION NEW DEGENERATES THAT "HAVE NEVER SEEN A SLV JPM SQUEEZE IDEA IN THIS SUB BEFORE THE SUITS WANTED TO SAVE MELVIN".
+
+Do you realize reddit has a search function? Here is a list of posts that talk about a potential silver squeeze of SLV and JPM long, long, long before GME blasted off towards the moon. This is /r/wallstreetbets, not /r/GME. We trade multiple tickers, you dumbshit fucking "entry at $450" bag holding tards.
+
+Great, you joined in the last 2 weeks because your autistic nephew made more money in 2 months than you've ever done.
+
+Instead of just shutting up and watching the plethora of good DD posts rise and fall, you think this entire subreddit is only about holding one frickin' short squeeze as if that's the first time in history anyone got squoze, and downvote otherwise great research because you're frickin' terrified of losing money you couldn't afford to lose in the first place.
+
+The entire global media didn't all pool together in 48 hours to present a uniform story of "buy silver" as part of some frickin' conspiracy designed to save a few medium-sized American hedge funds. No more than COVID was made by the Chinese to win Biden the presidency, anyway.
+
+So here, since you guys are too damn handicapped to use a fucking search engine, are a list of DD/YOLO/Discussion posts about SLV and Silver written LONG BEFORE THE FUCKING GME SHORT SQUEEZE FINALLY ROCKETED!!! Jesus fuck, you tinfoil wearing sack of "fake news" American mouth-breathers with the collective IQ of a doorknob.
+
+Just look at the fucking DD and pretend GME doesn't exist for 5 minutes. Silver. Is. A. Deep. Fucking. Value. Play! It has value. So much fucking deep value! 
+
+Yeah, no shit a market maker is holding silver positions when silver becomes more sought after, their job is to make fucking markets liquid. HOW ARE YOU GOING TO SUPPLY LIQUIDITY IF YOU DON'T HAVE SHIT TO SUPPLY?! DID YOU NOTICE HOW THEY HAVE A LOT OF PUTS AND A LOT OF CALLS, AND NOT JUST CALLS?!
+
+DO YOU THINK NO BILLIONAIRES HELPED RIDE GME UP? Do you think it was 100% retail on one side and 100% Melvin and Citron on the other? Ah, you do. Of course, you do.  
+
+
+GREAT, WE GOT 8 MILLION DEGENERATES HERE. The 6M that didn't manage to find this place without hearing about GME having rocketed already, MAYBE DON'T FUCKING POST, COMMENT AND BRING YOUR DAMN IGNORANCE INTO A SUB THAT WAS ACTUALLY PROVIDING 2-10 DECENT TRADE IDEAS PER WEEK PRIOR TO THIS CULT FUCKING INFESTATION OF JACKASSES COSPLAYING RETARDS.
+
+Whatever, here's a list none of you fuckers are capable of reading:
+
+\- 5 months ago, /u/negovany wrote "[Cornering Silver Market](https://www.reddit.com/r/wallstreetbets/comments/idjk61/cornering_silver_market/)". The whole thing is about JPM and squeezing silver. $GME was at $5 back then and /u/DeepFuckingValue was still getting laughed at for buying at every opportunity. Rest of you fuckers had barely gotten over the last cult following, PRPL mattresses.  
+\- 6 months ago, /u/lucasandrew talks about "[Why you should trade futures - WSB Edition](https://www.reddit.com/r/wallstreetbets/comments/i3qkex/why_you_should_trade_futures_wsb_edition/)", in which he mentions "*Speaking of SLV, people have been posting all the reasons that JPM fucks with the SLV ETF*". Yeah, I bet he took a fucking time-machine back 6 months in time after Citadel got stuck in the boo-boo. 
+
+\- 6 months ago, /u/LE0TARD0 implores the "[SILVER CHAD'S RISE UP!](https://www.reddit.com/r/wallstreetbets/comments/hy7nvn/silver_chads_rise_up/)". A straight fundamental thread on why silver is undervalued, not mention JPM. However, in the comments, a thread is started by /u/kbtech18 and supplemented by /u/ayyayyron talking about precisely JPM and their price manipulation of silver. YEAH, NO THAT NEVER HAPPENED, I'M SORRY FOR BEING A SHILL, LIKE FUCKING TAKE YOUR TINFOIL HATS OFF YOU DUMB SHITS!
+
+\- 5 months ago, /u/Fuzzers wrote "[September Silver Futures Contact - Something Aint Right Kids](https://www.reddit.com/r/wallstreetbets/comments/i9b1th/september_silver_futures_contact_something_aint/)".  
+After hailing his fellow degenerates, HE IMMEDIATELY SAYS: "*I know there has been 6 billion posts about silver,"* before later writing "*A large amount of contracts will stand for delivery such as in July. If its enough, maybe some of the big banks who have short positions might find themselves in hot water with their silver delivery amounts.".* Isn't IT JUST GLORIOUS HOW MELVIN AND CITADEL HAVE ALL THESE TIME MACHINES TO MAKE UP IMAGINARY SILVER SQUEEZES 6 MONTHS BEFORE THEY WERE MADE UP? YOU GUYS ARE SO FUCKING DUMB RIGHT NOW, HOLY FUCK! DON'T INVEST IN SILVER IF YOU DON'T WANT TO, BUT PLEASE STOP WITH THE AMERICAN FAKE NEWS CONSPIRACY THEORIES, IT HURTS MY ALREADY FUCKED UP BRAIN, STOP, I DON'T CONSENT!
+
+\- 5 months ago (YOU GUYS, MAYBE YOU ARE RIGHT, ALL THE POSTS ARE FROM 5-6 MONTHS AGO, MAYBE IT REALLY IS A TIME TRAVELLING CONSPIRACY BY MELVIN AND CITADEL, YES, LET'S GO WITH THAT!), /u/jetter23, wrote "[Weekend Update - Silver](https://old.reddit.com/r/wallstreetbets/comments/i6l0o2/weekend_update_silver/)". What did he have to share, in terms of ideas and DD? " *4a) Banks will continue to fight us on silver, but they are losing as they were massively short,*  ". WHAT SNEAKY FRICKIN' MARKET MANIPULATING HEDGE FUND SHILL HE IS, JUST GOING BACK SO FAR IN TIME TO SET US UP FOR THE PERFECT TRAP TO HELP CITADEL!!!
+
+\- /u/jetter23 was quite active shilling 5 months ago, he also wrote "[Weekend Update - Silver (DD#3)](https://old.reddit.com/r/wallstreetbets/comments/i9uxok/weekend_update_silver_dd3/)", where he just casually mentioned "*JPM is currently under DOJ investigation AGAIN for price speculation on Silver. JPM is learning a VERY expensive lesson that when there is a pandemic, global FIAT currencies are crashing(like the DXY), and there is a run on physical metals - you can't be naked short on paper."* IT'S ALMOST LIKE HE'S TALKING ABOUT SOME SORT OF SILVER SHORT SQUEEZE ON JPM, BUT HEY, THAT CAN'T BE IT BECAUSE THAT'S JUST A SCAM FAKE NEWS IDEA THAT'S 2-3 DAYS OLD, RIGHT? 
+
+\- /u/CCJ_Moon_6969 popped his head into the stream of tachyons, relatively talking to us from the present all the way 6 months ago, when he wrote "[Silver. $SLV call options. New York Comex.](https://old.reddit.com/r/wallstreetbets/comments/hy8wv9/silver_slv_call_options_new_york_comex/)". Do you remember /u/kbtech18 from a few threads up? WELL, GEE WHIZ, HE COVERED THAT TIME STREAM TOO, talking about JPM and silver. 6 months ago. I mean, today. Reddit probably changed the timestamps on the posts. DAMN SHILLS!  
+\- /u/rawvi wrote "[JPM and Silver](https://old.reddit.com/r/wallstreetbets/comments/i88cyy/jpm_and_silver/)" 5 months ago, wanting to learn more about... time travel. Nothing to do with naked shorting of silver. BECAUSE THAT WASN'T EVER TALKED ABOUT ON THIS UNTIL 2 DAYS AGO, SO LIKE... HAH, HE COULDN'T HAVE BEEN ASKING ABOUT THAT, RIGHT?!?! CORPORATE SHILL BOT LOLOLOL!
+
+WE LIKE THE STOCK!!! 
+
+  
+Don't buy silver, it's a time-traveling scam orchestrated by Kenneth Griffin!I just wanted to throw this out there in the middle of the outrage, in the hopes that someone can take it in and strategize, rather than be upset. Worked @ Merrill as an analyst from ** - **.
+
+I also like to keep it concise so follow along. This ain't a fucking Qanon fan fiction.
+
+Disclaimer: I own GME. This is not financial advice. This is just some dude chatting with his old buddies.
+
+---------------------------------------------------------
+1) **Robinhood, restrictions, suppression**: 
+
+When you place an order through RH, Citadel or some other HFT front runs your trade and pockets the spread; However, the transaction is not complete.
+
+Enter: Clearing house. The clearing house is the intermediary between the counter-parties. Because they stand between sellers & buyers, they have very defined levels of risk, risk management and regulation to be in front of.  The clearing house is who gives you the "title" for your shares, the folks who make it official.
+
+**What Likely Happened**: The risk department retard @ the clearing house, who does jack shit all year other than flag Stacy's trade so he can get some face time with her runs to the C-Suite frazzled; He has looked at option open interest expiring this week, has done the math and there simply isn't enough float for GME in anyway, shape or form; turns out WSB is printing out their stock certificates and burying them in the Mojave Desert. It's simply not enough.
+
+In addition, they got a Snapchat from SEC/OCC which said hey, if you fucking keep selling open positions, you're on your own; we ain't gonna help you. SEC is sneaky like that; they like sending messages through the backdoor, not the front because they used to be hedgies themselves. If you're not following, Front door is making a public statement while the backdoor is a threat sent to an intermediary who you and millions of investors don't even know exists.
+
+So, they call up the risk department at RH and tell em to stop fucking selling GME, there simply isn't enough float, the SEC told the clearing house they're on their own and who tf is gonna take the blame/liability if there's a "failure to deliver"? 
+
+---------------------------
+
+2) **Failure to Deliver**:
+
+This is a pretty big deal because it's basically a slam-dunk law suit. 
+
+Failure to deliver means that one of the counterparties (in this case, the firm who sold you the option, RH or the clearing house) has failed to deliver you a contractually obligated position, profit or certificate. Since there's no float and ITM calls get exercised by HFT bots at the end of the day, how in the fucking hell are they gonna deliver the option holders their contractually obligated merchandise if there is no merchandise to be delivered? There simply isn't enough for everyone. 
+
+It has been on the FTD list for a month already. Thousands (or possibly hundreds of thousands) of failures to deliver =  big risk
+
+
+---------------------------
+
+3) **Liability**: 
+
+You must be asking so what? Fuck them; They should be the ones figuring it out and they gotta give me, the customer, the right to choose or whatever the fuck; That sounds great in a boomer fashion but it's not that simple. Robinhood is contractually obligated to deliver you those shares or positions. If they fail to, they become liable for any losses or profits that you may have endured and they will LOSE in court cause they FAILED to DELIVER. How many people have options on GME on RH? Half? Imagine if half of these fine RH customers were legally owed benefits and they were engaged in DDoS style lawsuits involving Robinhood or the clearing house. There would be no Robinhood left. There would likely be no clearing house left. 
+
+Robinhood is also a shitshow of a company, so they likely didn't even have additional collateral to put up to the clearing house for normal share buying and selling on the meme tickers and since they bank with T-Mobile, they had to pull the plug. This lack of collateral from Robinhood is important to note because the "music" never stops, trading low float/volatile shares just becomes much more collateral heavy on the side of the broker.
+
+Hence: Bad Decision > Bankruptcy or worse (WSB finds Vlad's mom and becomes her boyfriend collectively)
+
+
+I personally don't believe it was out of malice or a coordination for RH; there's definitely coordination all around, but occam's razor says this is not such an ordeal.
+
+---------------------------
+
+
+Couple of semi-related notes:
+
+-Fuck Billionaires. Parasites of modern society, simply existing to leech off every slurp of alpha and take up resources meant for billions of poor people. Something is needed. Whatever is needed to discourage hoarding of resources of this tiny fucking planet.
+
+-I very much doubt that Ken Griffin and Citadel (the HF) would engage in blatant market manipulation or coercion of Robinhood or other brokers to make a few bucks on Gamestop or AMC. They cleared over 6 billion net last year, so just logically, it seems pretty unlikely to risk it for this. It is also very unlikely that Citadel Securities would engage in illegal behavior for the profit of Citadel, simply because it's such a money maker. If you were an evil genius, would you let your money maker go to shit because you were getting squeezed on some short?
+
+-The media just wants clicks and engagement, so they will bring the worst people on, simply to pad their own bottom line. Don't get engaged. Don't give in to them. Be the captain of your own ship and fuck over wall-street however you please.
+
+-The restrictions on the others tickers is likely proactive, not reactive. 
+
+- **TL;DR**: There's simply not enough float and the broker/clearing house will fail to deliver on a large scale if they keep letting new positions be opened, hence restrictions.
+
+- **What will happen now**:Based on my previous short squeezes, Friday (tomorrow) will be nuts; All this gamma has to go somewhere and since there's not enough float, I'm guessing up.
+
+edit (2/1/21): Thanks for all the awards. I exited on Fri open. Now GME is likely in a holding pattern to crush IV. Best of luck to everyone.Long post ahead, but I encourage you to read the whole thing. (This is a re-post, if you previously saw this I would appreciate an upvote for visibility. The previous post got a lot of traction but was removed a mod. I spoke to a mod on the team after and he kindly agreed to approve a re-post.)
+
+TLDR: Data points strongly point to Hedge Funds using tricks to appear as if they covered their shorts when they haven't truly covered, using an illegal method/loophole to "cover" their shorts with synthetic long shares generated from the use of options. Full version below.
+
+There’s an insightful piece on [TradeSmithDaily](https://tradesmithdaily.com/investing-strategies/the-drop-in-gamestop-short-interest-could-be-real-or-deceptive-market-manipulation/) that identifies two ways for both short interest and price to fall quickly.
+
+The first scenario is from retail investors not holding the line and panic selling, driving the price down further, releasing into the market more of the float and enabling shorts to cover/buy back shares at progressively lower levels.
+
+\*\*
+
+From TradeSmithDaily:
+
+Plummeting short interest along with a plummeting GME share price, in other words, could indicate that the Reddit army is headed for the hills, and the longs were selling early, giving the shorts a means to cover, as the longs got out… Important to note that if the long holders of GME shares did not break ranks and sell en masse, it would have been impossible for the share price to fall and hedge fund short interest to fall at the same time. because, without a critical mass of long-side holders selling into the market, the hedge funds covering their shorts would have nobody to buy from as they covered (bought back) their short positions.
+
+\*\*
+
+The second scenario is where hedge fund short interest in GME didn’t really dissipate but instead they played a trick to make it seem like it did, demoralizing the retail side and further “breaking the squeeze.”
+
+\*\*
+
+From TradeSmithDaily:
+
+The way the hedge funds could have done this — made it appear as if they covered their shorts, even when they really didn’t — involves trickery in the options market.
+
+The tactics involved are not a secret. In fact, the Securities and Exchange Commission (SEC) knows all about such tactics, and published a “risk alert” memo on the topic in August 2013.
+
+The SEC memo is titled “Strengthening Practices for Preventing and Detecting Illegal Options Trading Used to Reset Reg SHO Close-out Obligations.” You can [read it here via the SEC website](https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf).
+
+The memo contains a dozen pages of highly technical language, but here’s a quick rundown:
+
+* If short sellers are facing a squeeze because shares are hard to buy, or scrutiny for holding an illegal short position, they can create an appearance of having closed their short position through the use of deceptive options trades.
+* A hedge fund that is short a stock can write call options on a stock — meaning they are now “short” the call options, having sold the call options to someone else (typically a market maker) — and simultaneously buy shares against the call options.
+* The shares bought against the call options could be “synthetic” longs — meaning they are not part of the original share float of the stock — as sold to the hedge fund by the market maker that takes the other side of the options trade.
+* This works because, if a market maker buys options from an options writer, the market maker has legal privileges to do a version of “naked shorting” as part of their hedging function. This is necessary, under the current rules and the current system, for market makers to protect themselves when facilitating options trades.
+* As a result of the above transaction, the hedge fund that sold short calls was able to buy synthetic long shares against the calls. (A synthetic share is one that has a long on one side and a short on the other but wasn’t part of the original float.) The synthetic long shares are the other side of the naked shorts, legally initiated by the market maker, so the market maker can hedge.
+* The hedge fund that bought the shares can now report that they have “bought back” their short position via buying long shares — except they actually haven’t! The synthetic shares they bought are canceled out against the short call positions they initiated, a necessity of the maneuver by way of the market maker’s hedging of the call position they bought from the hedge fund.
+
+It gets very complicated, very fast.
+
+But the gist is that **hedge funds can use tricks to make it look like they’ve covered their shorts — even if they haven’t truly covered, and can’t, for lack of available float — by way of exploiting loopholes** that exist due to an interplay of reporting rule delays, market maker naked shorting exceptions, and legal practices of synthetic share creation (new longs and shorts made from thin air) relating to market-making.
+
+Below is a section of the SEC memo (from page 8) that gets to the heart of it:
+
+***“Trader A may enter a buy-write transaction, consisting of selling deep-in-the-money calls and buying shares of stock against the call sale. By doing so, Trader A appears to have purchased shares to meet the broker-dealer’s close-out obligation for the fail to deliver that resulted from the reverse conversion. In practice, however, the circumstances suggest that Trader A has no intention of delivering shares, and is instead re-establishing or extending a fail position.*****”**
+
+\*\*
+
+In short (no pun intended) these tricks “help hedge funds maintain short positions that, legally speaking, they weren’t supposed to have because the shares were never properly located”. Which triggers alarm bells when we consider the extraordinarily high amount of FTIDs/Failed to Deliver Shares ([https://wherearetheshares.com/](https://wherearetheshares.com/)) and Michael Burry’s (now deleted tweet viewable here [https://web.archive.org/web/20210130030954/https://twitter.com/michaeljburry?lang=en](https://web.archive.org/web/20210130030954/https://twitter.com/michaeljburry?lang=en)) about how when he called back shares he lent out, brokers took weeks to actually find them with the implication they could not be located.
+
+These factors lend credence to the idea that shorts weren’t really covered but were given the impression of being covered with trickery using options, in order to “cover” short positions they shouldn’t have had to begin with because shares were never properly located.
+
+If this theory is true, it would allow short side funds to prolong their position indefinitely. This opens up a thought experiment, **if funds are able to prolong their short positions with this method, wouldn't it make more financial sense for them to use this method to prolong their shorts rather than cover and close out their shorts at a -500% to -5000% loss** when prices were at 300-400 last week (when they supposed closed out a majority/very large amount of shorts)? Like the saying 
+"its only a loss when you sell", the version for shorts go "its only a loss if you close out your short positions."
+
+In addition, there are well reasoned arguments [here](https://www.reddit.com/r/wallstreetbets/comments/ledjwa/how_there_is_no_mathematical_way_shorts_were/) and [here](https://pastebin.com/AuhuKJu4) (now a pastebin, originally a popular post from a reddit user) that mathematically and based on publicly available facts, shorts could not have afforded to truly cover the majorityof their positions, which we know from Ortex/Finra dara to be significantly over 100% percent of the total float. To speculate and continue the logic, if shorts could not have afforded to truly cover most of their positions, it may make the most sense that only the most underwater positions were covered and the majority of remainder shorts positions prolonged with the help of synthetic longs, with the goal of waiting for retail interest and stock price to go back down. (I've read experiences from traders that support this hypothesis but won't post them as they're anecdotal, if you have similar experiences feel free to share them in the comments.)
+
+In noting the potential use of synthetic longs shorts may also no longer be under the same pressure to cover. If this is the case, two recourses to address that would be GME issuing a reverse stock split as it forces borrowers to return the shares to their holders, which in theory would put the naked short sellers in a compromised position. (If you care about forcing the issue, you could consider following the instructions [here](https://www.reddit.com/r/wallstreetbets/comments/lcpwh0/how\_gme\_can\_still\_be\_a\_great\_play/gm2tsnw/)). Another solution would be to bring the matter to the SEC's attention for investigation, which you can do at [https://www.sec.gov/tcr](https://www.sec.gov/tcr)
+
+Sidenote: Another instance synthetic longs came into the story recently was when S3 Partners released updated short numbers, reducing their projection of short interest from on 122% (1/28 Thursday)  to 113% (1/29 Friday) to 55% on 1/31 Sunday which many found to be suspicious. Later it was found that this new number of 55% was calculated using the same data set that yielded 113% short interest percentage, but with the significant difference of adding synthetic long shares into the short float equation, which is against standard practice but which S3 abruptly chose to make their main metric of SI%. Many questioned this decision. One consequence of this was the media picking up on the new short interest percentage of 55% and spreading it as a new narrative during market open on Monday morning. This may or may not have influence subsequent buy/sell behavior.
+
+In case you're feeling trepidatious, for a perspective on why the squeeze has not squoze you can read [this](https://www.reddit.com/r/wallstreetbets/comments/le235t/gme_institutions_hold_177_of_float_why_the/)
+
+Edit: If you think about GME as a battle between short side funds and retail investors (there could be other players involved but for the purpose of this analysis we'll focus on these two), its very much a battle of information and there is an information asymmetry on the retail buyers side. Hedge Funds know the positions they're in and can share data with each other whereas retail investors are in the dark about many important information/data points. An example of an information asymmetry on the retail buyer's side is that true real-time short interest information is not available. A lot of retail investors are waiting for the short interest report on February 9th to inform their next moves. This report is a data point, but be aware that the data in the the report will be two weeks old. Examples of what investors have available for estimating the immediate short term interest are certain indicators like short interest borrow rate, which can be aided by FINRA/Ortex data amongst a variety of other data points.
+
+Large groups are often susceptible to manipulation and information is power, this is why I believe it's important for there to be a community effort to share information and vet it as best as possible. Question everything and do your own research. For the diamond hands out there, it can be tough to hold in lieu of good information to make informed decisions, so I hope people continue to step up and share their insights on the ongoing situation. Someone should compile and organize quality DD on GME because once posts leave the front page they can be out of sight and out of mind. Some facts can point to truths that are important and should be remembered.
+
+There's an adage which is that retail investors can be irrational longer than funds can stay solvent. I personally disagree. To explore another perspective, if you consider the possibility that short side funds are taking a long tern play (on their short positions by extending them with synthetic long shares), then so far it would seem that funds can stay solvent longer than paper hands can stay patient (case in point being the retail sell-off when price started dropping.) One lesson one could draw from this could be that the more retail buyers understand how hedge funds think and operate, the better it will benefit them in navigating the situation intelligently.
+
+In my observation and in the context of battle, the HF side employed the Art of War well. Below are three tactics I identified:
+
+* **"Deceiving and confusing the enemy is a more effective path to victory than openly fighting with them."** I personally believe the press release from Melvin Capital on 1/27 about closing their short positions was an example of this, they wanted us to believe their short positions were closed thus ending justification for the short squeeze.
+* **"If you know your enemies and know yourself, you will not be imperiled in a hundred battles."** Hedge Funds knew the weakness of the retail side was lack of cohesion and leadership (by nature this is an issue as any leader to the movement may be accused of manipulating retail buyers and scapegoated) and they knew that if price drops low many retail buyers will panic sell, so all they needed to do was attempt to drive the price down via whatever methods at their disposal whether thats misinformation or Short Ladder Attacks which are frequently mentioned as an example and there could be others (there's arguments on both sides of whether Short Ladder Attacks really exist and I won't get into it here, I encourage you to do your own research and draw your own opinion from it)
+* **"If his forces are united, separate them"** aka divide and conquer. Upon driving "weak-hands" to sell-off this divides the retail buying group and creates bears out of some of those who held, who then spread their views and further the divide
+
+To provide context for the timeline of events described in this post, this post was originally written on Thursday 2/4/21 and updated on Sunday 2/7/21.
+
+For liability purposes, everything in this post is simply a thought experiment. I am not a financial advisor and none of what I've written constitutes as financial advice.
+
+If you'd like to read more into the subject of synthetic long shares and how it could be currently misused in the context of GME:
+
+[https://www.reddit.com/r/wallstreetbets/comments/ldjbg1/analysis\_on\_why\_hedge\_funds\_didnt\_reposition\_last/](https://www.reddit.com/r/wallstreetbets/comments/ldjbg1/analysis_on_why_hedge_funds_didnt_reposition_last/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/lalucf/i\_suspect\_the\_hedgies\_are\_illegally\_covering/](https://www.reddit.com/r/wallstreetbets/comments/lalucf/i_suspect_the_hedgies_are_illegally_covering/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/l97ykd/the\_real\_reason\_wall\_street\_is\_terrified\_of\_the/](https://www.reddit.com/r/wallstreetbets/comments/l97ykd/the_real_reason_wall_street_is_terrified_of_the/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/lanf94/gme\_is\_a\_time\_bomb\_and\_its\_highlighting\_a\_severe/](https://www.reddit.com/r/wallstreetbets/comments/lanf94/gme_is_a_time_bomb_and_its_highlighting_a_severe/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/lag1d3/why\_gme\_short\_interest\_appears\_to\_have\_fallen/](https://www.reddit.com/r/wallstreetbets/comments/lag1d3/why_gme_short_interest_appears_to_have_fallen/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/l9rk78/sec\_doj\_60\_minutes\_public\_data\_suggests\_massive/](https://www.reddit.com/r/wallstreetbets/comments/l9rk78/sec_doj_60_minutes_public_data_suggests_massive/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/l9z88h/evidence\_of\_massive\_naked\_short\_selling\_fraud\_in/](https://www.reddit.com/r/wallstreetbets/comments/l9z88h/evidence_of_massive_naked_short_selling_fraud_in/)
+
+[https://www.reddit.com/r/wallstreetbets/comments/lbydkz/s3\_partners\_s3\_si\_of\_float\_metric\_is\_total/](https://www.reddit.com/r/wallstreetbets/comments/lbydkz/s3_partners_s3_si_of_float_metric_is_total/)[https://i.imgur.com/DxM4SwP.png](https://i.imgur.com/DxM4SwP.png)
+
+I've borrowed and dumbed down this chart from [this savant's post](https://www.reddit.com/r/investing/comments/l97jbo/gamestop_big_picture_market_mechanics/).
+
+As the free-flowing stock dries up (due to ppl buying and holding), the volatility increases. It becomes easier and easier to move the needle with less money. As long as you keep holding and buying, the volatility will only increase. **Expect huge swings in the next few days.**
+
+Hedge funds know this. They tanked the stock this morning. Right now they intentionally leveling the demand to keep the stock price stable; to make it look like the ride is over.
+
+HOWEVER
+
+The short float is still high, and the [volume has been steadily decreasing](https://i.imgur.com/eRH3S2b.png).
+
+Furthermore, [institutional ownership](https://www.nasdaq.com/market-activity/stocks/gme/institutional-holdings) only picked up about 12m shares, and some of those went to institutions that were long not short. Now maybe I'm misreading this, or maybe they're fudging the data, but I just don't see how the shorts covered their position with this measly volume.
+
+|ACTIVE POSITIONS|HOLDERS|SHARES|
+|:-|:-|:-|
+|New positions|46|12,880,726|
+|Sold out positions|34|3,412,841|
+
+\--
+
+Keep in mind the VW squeeze happened with far less short-interest than is currently in GME. The main problem is that retail investors, unlike huge firms, can't vacuum up all the supply fast enough, which enables the hf to slowly wiggle their way out buying up paper hands. They've likely exited their worst short positions and reshorted at a better price.
+
+Some people are saying the squeeze might be more of a slow gradual upward pressure, rather than a sudden event. The truth is that the hedge funds are walking on a tightrope, and this stock is still extremely volatile. Any big movements in demand can drastically impact the price.
+
+\------
+
+Disclaimer: I am a poker player, not a day trader.  In poker, this is what we call an "implied odds play". The risk is relatively small for us bulls (relative to the short position), but the expected value is potentially huge if it works.  But these plays are still risky despite being +EV. **You have to be prepared to ride the swings and embrace the variance.**
+
+*This is pure, uneducated speculation, not financial advice.*
+
+**TL/DR: Grit your teeth and brace for swings. Shit's about to get nuts.**
+
+^(Edit: deleted the thing about being put on the short restriction list \[I screwed up the dates\], and added the institutional ownership thing)

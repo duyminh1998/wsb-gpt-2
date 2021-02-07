@@ -1,6 +1,9 @@
 # print("Hello World");
 
 import praw
+import io
+
+# file1 = open("data.txt","a", encoding="utf-8") 
 
 reddit = praw.Reddit(
     client_id="vvduT3kVaQ7tqQ",
@@ -12,6 +15,11 @@ reddit = praw.Reddit(
 
 wsb = reddit.subreddit("wallstreetbets")
 
-for submission in wsb.hot():
-	if submission.link_flair_text == "DD":
-		print(submission.title)
+with io.open("data.txt", "a", encoding="utf-8") as f:
+	for submission in wsb.top(limit=None):
+		if submission.link_flair_text == "DD":
+			print(submission.title)
+			f.write(submission.selftext) 
+			#print(submission.selftext)
+
+f.close()
