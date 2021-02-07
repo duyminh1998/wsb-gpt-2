@@ -12,5 +12,6 @@ reddit = praw.Reddit(
 
 wsb = reddit.subreddit("wallstreetbets")
 
-for submission in wsb.hot(limit=10):
-    print(submission.title)
+for submission in wsb.hot():
+	if submission.link_flair_text == "DD":
+		print(submission.title)
