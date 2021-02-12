@@ -42,7 +42,7 @@ results = api.search_submissions(q='DD', after=start_epoch,
 df2 = pd.DataFrame([thing.d_ for thing in results])
 print("Initialized data frame.")
 
-for j in range(2):
+for j in range(9):
 	year = str(2013 + j)
 	print("Year: " + year)
 	for i in range(1, 11):
@@ -54,6 +54,6 @@ for j in range(2):
 		start_epoch = end_epoch
 		end_epoch = int(dt.datetime(2013 + j, i + 2, 1).timestamp())
 		df = pd.DataFrame([thing.d_ for thing in results])
-		df2.append(df)
+		df2.append(df, sort=False)
 
 df2.to_csv('results.csv', index=False, encoding='utf-8')
