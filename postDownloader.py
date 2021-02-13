@@ -24,7 +24,7 @@ else:
 url = "https://api.pushshift.io/reddit/{}/search?limit=1000&sort=desc&{}&before="
 
 start_time = datetime.utcnow()
-
+start_time = datetime(2021, 1, 1)
 
 def downloadFromUrl(filename, object_type):
 	print(f"Saving {object_type}s to {filename}")
@@ -34,7 +34,7 @@ def downloadFromUrl(filename, object_type):
 	previous_epoch = int(start_time.timestamp())
 	while True:
 		new_url = url.format(object_type, filter_string)+str(previous_epoch)
-		json_text = requests.get(new_url, headers={'User-Agent': "Post downloader by /u/Watchful1"})
+		json_text = requests.get(new_url, headers={'User-Agent': "Post downloader by /u/duyminh1998"})
 		time.sleep(1)  # pushshift has a rate limit, if we send requests too fast it will start returning error messages
 		try:
 			json_data = json_text.json()
@@ -88,5 +88,5 @@ def downloadFromUrl(filename, object_type):
 	handle.close()
 
 
-downloadFromUrl("posts.txt", "submission")
+downloadFromUrl("posts_2.txt", "submission")
 #downloadFromUrl("comments.txt", "comment")
