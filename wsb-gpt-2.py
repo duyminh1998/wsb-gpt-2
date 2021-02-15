@@ -8,6 +8,6 @@ gpt2.generate(sess,
               length=500,
               temperature=0.7,
               prefix="Title:",
-              nsamples=1,
-              batch_size=1
+              nsamples=2,
+              batch_size=2
               )
