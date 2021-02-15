@@ -1,3 +1,5 @@
+# Adapted from u/Watchful1's postDownloader.py
+
 import requests
 from datetime import datetime
 import traceback

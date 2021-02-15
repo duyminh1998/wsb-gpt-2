@@ -7,7 +7,7 @@ if not os.path.isdir(os.path.join("models", model_name)):
 	gpt2.download_gpt2(model_name=model_name)   # model is saved into current directory under /models/124M/
 
 
-file_name = "posts_1.txt"    
+file_name = "data/data_2017-2021.txt"    
 
 sess = gpt2.start_tf_sess()
 gpt2.finetune(sess,
